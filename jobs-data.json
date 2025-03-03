@@ -1,0 +1,870 @@
+[
+    {
+        "_id": "67c05e684ef1a0319fc7e241",
+        "company": "DevTech",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-27T12:45:28.349Z",
+        "updatedAt": "2025-02-28T06:13:24.627Z",
+        "__v": 0
+    },
+    {
+        "_id": "67c1466fc59e5aec34342d68",
+        "company": "DevTech",
+        "position": "Back-end Developer",
+        "status": "pending",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-28T05:15:27.212Z",
+        "updatedAt": "2025-02-28T06:12:20.887Z",
+        "__v": 0
+    },
+    {
+        "_id": "67ba871705c26cafe79cf9b8",
+        "company": "DevTech",
+        "position": "Front-end Developer",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.856967Z",
+        "updatedAt": "2025-02-28T07:30:12.856996Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f5e91a9e7815ff459f4672",
+        "company": "CodeCrafters",
+        "position": "MERN-Stack Developer",
+        "status": "interview",
+        "workType": "part-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-27T07:30:12.857026Z",
+        "updatedAt": "2025-02-27T07:30:12.857032Z",
+        "__v": 0
+    },
+    {
+        "_id": "67a3200badee9f65ab9f5c4b",
+        "company": "DevTech",
+        "position": "Back-end Developer",
+        "status": "pending",
+        "workType": "part-time",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-23T07:30:12.857048Z",
+        "updatedAt": "2025-02-27T07:30:12.857052Z",
+        "__v": 0
+    },
+    {
+        "_id": "67bff21afcfa41bbe405cf15",
+        "company": "TechNova",
+        "position": "Front-end Developer",
+        "status": "reject",
+        "workType": "full-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-24T07:30:12.857063Z",
+        "updatedAt": "2025-02-28T07:30:12.857067Z",
+        "__v": 0
+    },
+    {
+        "_id": "67aad3a1a539099b78401f67",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "pending",
+        "workType": "part-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-21T07:30:12.857083Z",
+        "updatedAt": "2025-02-27T07:30:12.857087Z",
+        "__v": 0
+    },
+    {
+        "_id": "676c91fc5cf01cc1ebe25e4a",
+        "company": "DevTech",
+        "position": "Front-end Developer",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857098Z",
+        "updatedAt": "2025-02-26T07:30:12.857101Z",
+        "__v": 0
+    },
+    {
+        "_id": "67870cd7d395a4a5671512ab",
+        "company": "SoftSolutions",
+        "position": "MERN-Stack Developer",
+        "status": "selected",
+        "workType": "part-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857111Z",
+        "updatedAt": "2025-02-26T07:30:12.857114Z",
+        "__v": 0
+    },
+    {
+        "_id": "6769ceddc8eb68bf82858a75",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "interview",
+        "workType": "full-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-27T07:30:12.857144Z",
+        "updatedAt": "2025-02-26T07:30:12.857149Z",
+        "__v": 0
+    },
+    {
+        "_id": "673bd666b2aa741a0d5b38bb",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "selected",
+        "workType": "contract",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857165Z",
+        "updatedAt": "2025-02-28T07:30:12.857168Z",
+        "__v": 0
+    },
+    {
+        "_id": "67a6fbc1f18ae69d28a5ace7",
+        "company": "TechNova",
+        "position": "Data Scientist",
+        "status": "reject",
+        "workType": "full-time",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857179Z",
+        "updatedAt": "2025-02-26T07:30:12.857182Z",
+        "__v": 0
+    },
+    {
+        "_id": "67158a1816e6bee7ad93d7ae",
+        "company": "DevTech",
+        "position": "Back-end Developer",
+        "status": "interview",
+        "workType": "part-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-21T07:30:12.857193Z",
+        "updatedAt": "2025-02-26T07:30:12.857198Z",
+        "__v": 0
+    },
+    {
+        "_id": "672dce32ea552481167f55c3",
+        "company": "CodeCrafters",
+        "position": "Front-end Developer",
+        "status": "interview",
+        "workType": "internship",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-26T07:30:12.857215Z",
+        "updatedAt": "2025-02-27T07:30:12.857220Z",
+        "__v": 0
+    },
+    {
+        "_id": "677cb8c60f398b64e95305af",
+        "company": "TechNova",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "contract",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857240Z",
+        "updatedAt": "2025-02-27T07:30:12.857243Z",
+        "__v": 0
+    },
+    {
+        "_id": "671e159992c3919ca79da6ed",
+        "company": "CodeCrafters",
+        "position": "Front-end Developer",
+        "status": "pending",
+        "workType": "contract",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-23T07:30:12.857253Z",
+        "updatedAt": "2025-02-27T07:30:12.857255Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f81313a3be7ed554b382fd",
+        "company": "CodeCrafters",
+        "position": "Data Scientist",
+        "status": "interview",
+        "workType": "internship",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-26T07:30:12.857265Z",
+        "updatedAt": "2025-02-28T07:30:12.857268Z",
+        "__v": 0
+    },
+    {
+        "_id": "671c3ceaaafeb32b10e89f00",
+        "company": "DevTech",
+        "position": "Front-end Developer",
+        "status": "reject",
+        "workType": "internship",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-27T07:30:12.857278Z",
+        "updatedAt": "2025-02-28T07:30:12.857280Z",
+        "__v": 0
+    },
+    {
+        "_id": "678e7df2924621825d25cc2d",
+        "company": "CodeCrafters",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "part-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-27T07:30:12.857289Z",
+        "updatedAt": "2025-02-27T07:30:12.857292Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f641b187f63b9793d5d33d",
+        "company": "TechNova",
+        "position": "Back-end Developer",
+        "status": "interview",
+        "workType": "full-time",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-24T07:30:12.857301Z",
+        "updatedAt": "2025-02-26T07:30:12.857304Z",
+        "__v": 0
+    },
+    {
+        "_id": "672ef4835c40c13c54fdb137",
+        "company": "DevTech",
+        "position": "Back-end Developer",
+        "status": "pending",
+        "workType": "full-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857314Z",
+        "updatedAt": "2025-02-28T07:30:12.857317Z",
+        "__v": 0
+    },
+    {
+        "_id": "67960bb689c68df788b33694",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "reject",
+        "workType": "contract",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857326Z",
+        "updatedAt": "2025-02-26T07:30:12.857329Z",
+        "__v": 0
+    },
+    {
+        "_id": "6747ee02b1b79491f575b6f6",
+        "company": "CodeCrafters",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "contract",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857347Z",
+        "updatedAt": "2025-02-26T07:30:12.857351Z",
+        "__v": 0
+    },
+    {
+        "_id": "67162908bf2c5367eee6c157",
+        "company": "DevTech",
+        "position": "Front-end Developer",
+        "status": "pending",
+        "workType": "full-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857364Z",
+        "updatedAt": "2025-02-28T07:30:12.857367Z",
+        "__v": 0
+    },
+    {
+        "_id": "67e8318a3a65cbfbe89ec65f",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857377Z",
+        "updatedAt": "2025-02-27T07:30:12.857380Z",
+        "__v": 0
+    },
+    {
+        "_id": "6727487e384755c217732f97",
+        "company": "CodeCrafters",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "internship",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-26T07:30:12.857390Z",
+        "updatedAt": "2025-02-26T07:30:12.857393Z",
+        "__v": 0
+    },
+    {
+        "_id": "67240ad608ef6c7ac9cb53be",
+        "company": "CodeCrafters",
+        "position": "Front-end Developer",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857402Z",
+        "updatedAt": "2025-02-28T07:30:12.857405Z",
+        "__v": 0
+    },
+    {
+        "_id": "6734f2648531e7050c176d5b",
+        "company": "DevTech",
+        "position": "MERN-Stack Developer",
+        "status": "interview",
+        "workType": "part-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857415Z",
+        "updatedAt": "2025-02-28T07:30:12.857418Z",
+        "__v": 0
+    },
+    {
+        "_id": "678e7d13f049da09164887c3",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "interview",
+        "workType": "internship",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857427Z",
+        "updatedAt": "2025-02-28T07:30:12.857430Z",
+        "__v": 0
+    },
+    {
+        "_id": "67859a774bd12eefe70afc62",
+        "company": "TechNova",
+        "position": "Data Scientist",
+        "status": "reject",
+        "workType": "contract",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857439Z",
+        "updatedAt": "2025-02-27T07:30:12.857443Z",
+        "__v": 0
+    },
+    {
+        "_id": "679beae6ed81379c56cd7162",
+        "company": "TechNova",
+        "position": "MERN-Stack Developer",
+        "status": "reject",
+        "workType": "contract",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-26T07:30:12.857452Z",
+        "updatedAt": "2025-02-27T07:30:12.857454Z",
+        "__v": 0
+    },
+    {
+        "_id": "67b4bd7315de704fd583a6ea",
+        "company": "TechNova",
+        "position": "MERN-Stack Developer",
+        "status": "reject",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857464Z",
+        "updatedAt": "2025-02-28T07:30:12.857466Z",
+        "__v": 0
+    },
+    {
+        "_id": "67d9bb836bed6d5a2d930ba8",
+        "company": "TechNova",
+        "position": "Data Scientist",
+        "status": "reject",
+        "workType": "internship",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-22T07:30:12.857476Z",
+        "updatedAt": "2025-02-27T07:30:12.857478Z",
+        "__v": 0
+    },
+    {
+        "_id": "67ea686aab832a4e4673632b",
+        "company": "TechNova",
+        "position": "MERN-Stack Developer",
+        "status": "interview",
+        "workType": "full-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857488Z",
+        "updatedAt": "2025-02-28T07:30:12.857491Z",
+        "__v": 0
+    },
+    {
+        "_id": "6721fd648d8143a9af83b985",
+        "company": "CodeCrafters",
+        "position": "Back-end Developer",
+        "status": "selected",
+        "workType": "part-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-28T07:30:12.857500Z",
+        "updatedAt": "2025-02-27T07:30:12.857503Z",
+        "__v": 0
+    },
+    {
+        "_id": "675d87c7dfe8b228f84814c3",
+        "company": "CodeCrafters",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "part-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-21T07:30:12.857513Z",
+        "updatedAt": "2025-02-28T07:30:12.857516Z",
+        "__v": 0
+    },
+    {
+        "_id": "674e32d5a9ea29f9fa123160",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "selected",
+        "workType": "contract",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-21T07:30:12.857526Z",
+        "updatedAt": "2025-02-27T07:30:12.857529Z",
+        "__v": 0
+    },
+    {
+        "_id": "6701448cc8659e995ce8b5db",
+        "company": "DevTech",
+        "position": "MERN-Stack Developer",
+        "status": "reject",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857540Z",
+        "updatedAt": "2025-02-27T07:30:12.857543Z",
+        "__v": 0
+    },
+    {
+        "_id": "675fe5385318676af76ab872",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "interview",
+        "workType": "part-time",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857552Z",
+        "updatedAt": "2025-02-27T07:30:12.857555Z",
+        "__v": 0
+    },
+    {
+        "_id": "67013cf992a17490b20aca39",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "selected",
+        "workType": "full-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857567Z",
+        "updatedAt": "2025-02-27T07:30:12.857570Z",
+        "__v": 0
+    },
+    {
+        "_id": "67b47eeb256ccfff60680a97",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "selected",
+        "workType": "contract",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-22T07:30:12.857580Z",
+        "updatedAt": "2025-02-28T07:30:12.857583Z",
+        "__v": 0
+    },
+    {
+        "_id": "67097d7e766366f8b3b79eec",
+        "company": "TechNova",
+        "position": "Front-end Developer",
+        "status": "selected",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-18T07:30:12.857592Z",
+        "updatedAt": "2025-02-28T07:30:12.857595Z",
+        "__v": 0
+    },
+    {
+        "_id": "67acd710e4a5cd767503b857",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "reject",
+        "workType": "full-time",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-23T07:30:12.857605Z",
+        "updatedAt": "2025-02-28T07:30:12.857608Z",
+        "__v": 0
+    },
+    {
+        "_id": "6772c9ad074380d311539eba",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "pending",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-26T07:30:12.857617Z",
+        "updatedAt": "2025-02-27T07:30:12.857620Z",
+        "__v": 0
+    },
+    {
+        "_id": "678f60ce81904c27a2cd6696",
+        "company": "CodeCrafters",
+        "position": "Back-end Developer",
+        "status": "pending",
+        "workType": "full-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857629Z",
+        "updatedAt": "2025-02-26T07:30:12.857632Z",
+        "__v": 0
+    },
+    {
+        "_id": "67ac0b219a1ca8d61f525583",
+        "company": "SoftSolutions",
+        "position": "Data Scientist",
+        "status": "interview",
+        "workType": "full-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-22T07:30:12.857642Z",
+        "updatedAt": "2025-02-28T07:30:12.857645Z",
+        "__v": 0
+    },
+    {
+        "_id": "67f58d17de7047d30ae112ae",
+        "company": "SoftSolutions",
+        "position": "Front-end Developer",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-27T07:30:12.857655Z",
+        "updatedAt": "2025-02-28T07:30:12.857658Z",
+        "__v": 0
+    },
+    {
+        "_id": "67e38342e262cee92fde2dba",
+        "company": "TechNova",
+        "position": "Front-end Developer",
+        "status": "interview",
+        "workType": "part-time",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857667Z",
+        "updatedAt": "2025-02-28T07:30:12.857669Z",
+        "__v": 0
+    },
+    {
+        "_id": "67a6cce9c0e7bd3465b3b715",
+        "company": "DevTech",
+        "position": "MERN-Stack Developer",
+        "status": "interview",
+        "workType": "part-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-23T07:30:12.857682Z",
+        "updatedAt": "2025-02-26T07:30:12.857687Z",
+        "__v": 0
+    },
+    {
+        "_id": "67b6aea5102a55cddcffd7a2",
+        "company": "CodeCrafters",
+        "position": "Back-end Developer",
+        "status": "interview",
+        "workType": "full-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-21T07:30:12.857703Z",
+        "updatedAt": "2025-02-27T07:30:12.857706Z",
+        "__v": 0
+    },
+    {
+        "_id": "67fd2e49a27d8840550437dd",
+        "company": "DevTech",
+        "position": "MERN-Stack Developer",
+        "status": "interview",
+        "workType": "contract",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857715Z",
+        "updatedAt": "2025-02-26T07:30:12.857718Z",
+        "__v": 0
+    },
+    {
+        "_id": "67b6901e2eee3e7069876f16",
+        "company": "TechNova",
+        "position": "Data Scientist",
+        "status": "reject",
+        "workType": "internship",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-22T07:30:12.857727Z",
+        "updatedAt": "2025-02-27T07:30:12.857730Z",
+        "__v": 0
+    },
+    {
+        "_id": "67e2506df33eb0a3a63bc29b",
+        "company": "CodeCrafters",
+        "position": "Back-end Developer",
+        "status": "pending",
+        "workType": "part-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857739Z",
+        "updatedAt": "2025-02-27T07:30:12.857742Z",
+        "__v": 0
+    },
+    {
+        "_id": "67ca4243d4fb358749dd3d4a",
+        "company": "TechNova",
+        "position": "Back-end Developer",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857751Z",
+        "updatedAt": "2025-02-27T07:30:12.857754Z",
+        "__v": 0
+    },
+    {
+        "_id": "67d9acd9e2c120cfac92715b",
+        "company": "DevTech",
+        "position": "Front-end Developer",
+        "status": "selected",
+        "workType": "internship",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857763Z",
+        "updatedAt": "2025-02-27T07:30:12.857766Z",
+        "__v": 0
+    },
+    {
+        "_id": "673342753360a51fd260e193",
+        "company": "CodeCrafters",
+        "position": "Data Scientist",
+        "status": "reject",
+        "workType": "part-time",
+        "workLocation": "Ahmadabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857786Z",
+        "updatedAt": "2025-02-28T07:30:12.857789Z",
+        "__v": 0
+    },
+    {
+        "_id": "67c0b97c0b16c68d25cdac23",
+        "company": "SoftSolutions",
+        "position": "MERN-Stack Developer",
+        "status": "pending",
+        "workType": "internship",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-19T07:30:12.857804Z",
+        "updatedAt": "2025-02-27T07:30:12.857807Z",
+        "__v": 0
+    },
+    {
+        "_id": "671f4330f2c337156463475a",
+        "company": "DevTech",
+        "position": "Front-end Developer",
+        "status": "reject",
+        "workType": "contract",
+        "workLocation": "Hyderabad",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857817Z",
+        "updatedAt": "2025-02-26T07:30:12.857820Z",
+        "__v": 0
+    },
+    {
+        "_id": "675deb9eaba73ebce21047af",
+        "company": "CodeCrafters",
+        "position": "MERN-Stack Developer",
+        "status": "reject",
+        "workType": "part-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-22T07:30:12.857829Z",
+        "updatedAt": "2025-02-27T07:30:12.857832Z",
+        "__v": 0
+    },
+    {
+        "_id": "674e09bd5e26433732391483",
+        "company": "TechNova",
+        "position": "Data Scientist",
+        "status": "reject",
+        "workType": "part-time",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-25T07:30:12.857841Z",
+        "updatedAt": "2025-02-27T07:30:12.857844Z",
+        "__v": 0
+    },
+    {
+        "_id": "679b6e693920486a40f985af",
+        "company": "TechNova",
+        "position": "MERN-Stack Developer",
+        "status": "selected",
+        "workType": "contract",
+        "workLocation": "Mumbai",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-20T07:30:12.857860Z",
+        "updatedAt": "2025-02-26T07:30:12.857865Z",
+        "__v": 0
+    },
+    {
+        "_id": "674f8f8c5132de7700d2bb45",
+        "company": "SoftSolutions",
+        "position": "Back-end Developer",
+        "status": "selected",
+        "workType": "part-time",
+        "workLocation": "Bangalore",
+        "createdBy": {
+            "$oid": "67c00ea3eafdcc1560085b3b"
+        },
+        "createdAt": "2025-02-26T07:30:12.857881Z",
+        "updatedAt": "2025-02-28T07:30:12.857891Z",
+        "__v": 0
+    }
+]
